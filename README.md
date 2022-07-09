@@ -7,4 +7,4 @@ Desenhe uma estrutura de software que sustente esse serviço, pode ser um desenh
 
 ---
 ## Resultado:
-![]()
+![image](https://raw.githubusercontent.com/guidani/desafio-bigdatacorp/main/compra_ingresso_uml.jpg)
